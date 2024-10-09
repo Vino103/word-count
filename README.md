@@ -8,5 +8,3 @@ step2:Click the "Go Live" button.A new browser window will open, displaying top 
 
 Future Enhancements:
 Implementing user interactivity to allow dynamic paragraph input. Adding the ability to customize the number of top words displayed
-
-Word-count/README.md at main · Jayashri-MCA23/Word-count
